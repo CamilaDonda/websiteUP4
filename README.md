@@ -4,6 +4,8 @@ Landing page, teams page and contact working fine
 Responsive page
 
 http://grandiose-notebook.surge.sh/ 
+
+
 ![Screenshot 2022-04-19 134756](https://user-images.githubusercontent.com/79063885/164135267-763eda38-a9ac-456f-afaa-d848774e4d5b.png)
 ![2](https://user-images.githubusercontent.com/79063885/164135259-514e9b28-60e5-465b-907b-cbfe5ef52efc.png)
 ![3](https://user-images.githubusercontent.com/79063885/164135260-f2101c1b-c84c-4efa-8db0-e9a45905cd10.png)
